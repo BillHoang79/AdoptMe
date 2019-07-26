@@ -7,4 +7,4 @@ export default function Pet({ name, animal, breed }) {
       <h2>{breed}</h2>
     </div>
   );
-}
+} // testing git commit
